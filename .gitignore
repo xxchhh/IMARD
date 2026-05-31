@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.onnx
+*.csv
+*.rar
+*.zip
+.DS_Store
+.idea/
+.vscode/
